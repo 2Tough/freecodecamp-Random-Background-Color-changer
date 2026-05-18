@@ -1,2 +1,2 @@
-# freeCodeCamp-Random-Background-Color-changer
+# freecodecamp-background-color-changer
 A simple background color changer
